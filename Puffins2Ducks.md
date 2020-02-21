@@ -1,4 +1,11 @@
-Readme for Puffins to Ducks CycleGAN
+Readme for Puffins to Ducks CycleGAN and Walt Whitman GPT-2
+
+++PROJECT2++
+Alex Mayben and Jeffrey Weekley
+
+GPT-2 Text Generator based on the GPT-2 Playground (https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
+
+Walt Whitman corpus was gleaned from Gutenberg.org, primarily from Leaves of Grass (available here: http://www.gutenberg.org/ebooks/1322)
 
 This CycleGAN is based on the example Pix2Pix, available here:
 
